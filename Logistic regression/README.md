@@ -1,1 +1,1 @@
-This folder includes files that explains the concepts of Logistsic regression.
+This folder includes files that explains the practical implementation of Logistsic regression.
