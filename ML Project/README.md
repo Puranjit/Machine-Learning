@@ -1,5 +1,6 @@
- <b>This folder contains a Data Science project with implementations of various ML algorithms on the dataset that was prepared after performing data exploratory analysis/ data wrangling on the data
-</b> 
+ <b>This folder contains a Data Science project with implementations of various ML algorithms on the dataset that was prepared after performing data exploratory analysis/ data wrangling on the data. 
+</b> <br>
+The instructions.pdf file consists of the details about the expectations/ demands of the project<br>
  The follwoing steps were completed in the project -
  1. Reading data into DataFrames (Library used - Pandas)
  2. Data wrangling - Removing noise, filling/removing null values, statistical analysis using various visualizations (Libraries used - Pandas, NumPy, Matplotlib, Seaborn)
